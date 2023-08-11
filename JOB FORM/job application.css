@@ -1,0 +1,40 @@
+.lastname{
+    margin-left: 400px;
+    margin-top: -38px;
+}
+.job{
+    margin-left: 400px;
+    margin-top: -38px;
+}
+.pincode{
+    margin-left: 400px;
+    margin-top: -38px;
+}
+.cv{
+    margin-left: 400px;
+    margin-top: -38px;
+}
+.apply{
+    margin-left: 280px;
+    margin-top: 30px;
+    border-radius: 10px;
+    border-color: rgb(168, 74, 93);
+}
+.apply:hover {
+    background-color: rgb(97, 19, 35);
+    color: white;
+  }
+  
+body{
+    border: 2px none white;
+    padding: 250px;
+    margin-bottom: -200px;
+    margin-top: -200px;
+    margin-left: 55px;
+    margin-right: 50px;
+}
+form{
+    background-color: rgb(143, 174, 183);
+    border-radius: 10%;
+    padding: 20px;
+}
